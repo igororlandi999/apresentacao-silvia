@@ -3,7 +3,7 @@ Como usar a apresentacao
 
 ABRIR
 1. Descompacte a pasta inteira no computador (nao abra direto de dentro do .zip).
-2. De dois cliques em "apresentacao.html". Ela abre no navegador (Chrome ou Edge recomendados).
+2. De dois cliques em "index.html". Ela abre no navegador (Chrome ou Edge recomendados).
    Funciona sem internet: fotos, fontes e animacoes estao todas dentro da pasta "assets".
 3. Aperte a tecla F para entrar em tela cheia (ou o icone no canto inferior direito).
    Para sair da tela cheia, aperte Esc.
@@ -23,7 +23,7 @@ NA TV OU NO PROJETOR
   abra a apresentacao e aperte F. Ela se ajusta sozinha a qualquer tela mantendo 16:9.
 
 ARQUIVOS
-- apresentacao.html ............ apresentacao principal
+- index.html .................... apresentacao principal
 - assets/img ................... fotografias, logo e QR Code
 - assets/css, assets/js, assets/fonts ... visual, animacoes e fontes
 - notas-da-apresentadora.pdf ... lembretes para cada slide (nao aparecem na tela)
