@@ -1,0 +1,35 @@
+OVERWINE — HISTORIAS QUE ATRAVESSAM O ATLANTICO
+Como usar a apresentacao
+
+ABRIR
+1. Descompacte a pasta inteira no computador (nao abra direto de dentro do .zip).
+2. De dois cliques em "apresentacao.html". Ela abre no navegador (Chrome ou Edge recomendados).
+   Funciona sem internet: fotos, fontes e animacoes estao todas dentro da pasta "assets".
+3. Aperte a tecla F para entrar em tela cheia (ou o icone no canto inferior direito).
+   Para sair da tela cheia, aperte Esc.
+
+PASSAR OS SLIDES
+- Avancar: seta para a direita, barra de espaco, Page Down ou clique na tela.
+- Voltar: seta para a esquerda, Page Up ou clique no lado esquerdo da tela.
+- Passadores de slide (clicker) funcionam normalmente.
+- Ir direto a um slide: teclas 1 a 9 (0 = slide 10). Home volta ao inicio.
+- Os slides nunca passam sozinhos. As animacoes de cada slide levam de 2 a 4 segundos;
+  vale esperar o texto aparecer antes de comecar a falar.
+- Os controles discretos aparecem no canto inferior direito quando o mouse se mexe
+  e somem sozinhos.
+
+NA TV OU NO PROJETOR
+- Conecte o notebook, configure a tela como "Duplicar" ou "Somente segundo monitor",
+  abra a apresentacao e aperte F. Ela se ajusta sozinha a qualquer tela mantendo 16:9.
+
+ARQUIVOS
+- apresentacao.html ............ apresentacao principal
+- assets/img ................... fotografias, logo e QR Code
+- assets/css, assets/js, assets/fonts ... visual, animacoes e fontes
+- notas-da-apresentadora.pdf ... lembretes para cada slide (nao aparecem na tela)
+- Overwine-apresentacao.pptx ... versao PowerPoint alternativa (mesmo visual,
+  transicoes de fade e notas no modo apresentador; os textos estao dentro das imagens)
+
+TROCAR UMA FOTO
+- Substitua o arquivo em assets/img mantendo exatamente o mesmo nome.
+  Ex.: para usar uma foto oficial de produto no slide 9, troque "09-garrafas.jpg".
